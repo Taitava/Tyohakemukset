@@ -1,0 +1,3 @@
+- Mihin tuotteseen/tuotteisiin kehittäjää kaivataan?
+	- Tärkeimmät kehityskohteet näissä tuotteissa?
+- Minkälainen työajanseurantajärjestelmä on käytössä?
